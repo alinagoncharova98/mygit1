@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
+
+//Find min of function
  
 // Целевая функция
 double f(double x) {
